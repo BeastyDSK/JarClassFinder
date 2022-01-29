@@ -17,3 +17,13 @@ Known Issue(s) :
   If its showing the above error then the issue is you havnt read the line number 4. So if you have time please pls read or try googling. That might help!
   
 I tried to fix all the issue(s) while testing so if you have any other issue please mention.
+
+
+## New :
+  Added Settings Menu. (Options -> Settings)
+    1) You can now set the default jar path in the settings. So you dont have to browse the same path again and again.
+    
+    2) Added support to open JD-GUI if you double click on the jar (in search result). 
+    
+    **Important before that set the JD-GUI path.** 
+ 
